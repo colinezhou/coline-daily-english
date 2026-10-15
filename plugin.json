@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "coline-daily-english",
+  "version": "0.1.0",
+  "description": "Refresh Coline Daily with a current, source-attributed English reading and matching TEM-4 study activities."
+}
