@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily English Refresh"
+  short_description: "Refresh Coline Daily with today’s English lesson"
+  default_prompt: "Refresh today’s Coline Daily article and matching study activities, verify the result, and publish it."
